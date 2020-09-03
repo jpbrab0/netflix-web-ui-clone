@@ -33,6 +33,7 @@ const Home = () => {
         </video>
       </div>
       <section className="series">
+        <h1>Populares na netflix</h1>
         <Carrosel
           itemsToShow={4}
           pagination={false}
@@ -52,6 +53,7 @@ const Home = () => {
         </Carrosel>
       </section>
       <section className="series">
+        <h1>Porque você assistiu a Mundo Misterio</h1>
         <Carrosel
           itemsToShow={4}
           pagination={false}
@@ -71,6 +73,7 @@ const Home = () => {
         </Carrosel>
       </section>
       <section className="series">
+        <h1>Originais netflix</h1>
         <Carrosel
           itemsToShow={4}
           pagination={false}
@@ -90,6 +93,7 @@ const Home = () => {
         </Carrosel>
       </section>
       <section className="series">
+        <h1>Filmes brasileiros</h1>
         <Carrosel
           itemsToShow={4}
           pagination={false}
