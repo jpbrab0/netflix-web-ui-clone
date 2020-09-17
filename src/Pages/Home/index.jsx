@@ -8,7 +8,7 @@ const Home = () => {
     <>
       <header>
         <img
-          src="https://fontmeme.com/temporary/d7fa46218581e004139f5ad9298e915d.png"
+          src="https://fontmeme.com/permalink/200917/69dfe28dc8c9bdcdb8ca6878bedab0b5.png"
           draggable={false}
           alt="Netflix logo"
         />
